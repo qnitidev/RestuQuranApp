@@ -15,7 +15,7 @@
         android:textSize="@dimen/dmnCommonSize2"
         android:visibility="gone" />
 
-    <com.quranapp.android.views.helper.RecyclerView2
+    <com.mietrix.restu_digital_quran.views.helper.RecyclerView2
         android:id="@+id/suggs"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -5,14 +5,14 @@
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
-    <com.quranapp.android.views.reader.ChapterTitleView
+    <com.mietrix.restu_digital_quran.views.reader.ChapterTitleView
         android:id="@+id/chapterTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         tools:chapterNumber="55" />
 
-    <com.quranapp.android.views.reader.BismillahView
+    <com.mietrix.restu_digital_quran.views.reader.BismillahView
         android:id="@+id/bismillah"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

@@ -73,7 +73,7 @@
         </LinearLayout>
     </LinearLayout>
 
-    <com.quranapp.android.views.helper.RecyclerView2
+    <com.mietrix.restu_digital_quran.views.helper.RecyclerView2
         android:id="@+id/list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -10,7 +10,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.quranapp.android"
+        applicationId "com.mietrix.restu_digital_quran"
         minSdkVersion 21
         targetSdkVersion 33
         // I don't know why I've used such a weird versioning scheme in the beginning,
@@ -72,7 +72,7 @@ android {
             jvmTarget = '17'
         }
     }
-    namespace 'com.quranapp.android'
+    namespace 'com.mietrix.restu_digital_quran'
 }
 
 dependencies {

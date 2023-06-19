@@ -20,32 +20,32 @@
             android:layout_height="wrap_content"
             android:visibility="gone" />
 
-        <com.quranapp.android.views.homepage2.ReadHistoryLayout
+        <com.mietrix.restu_digital_quran.views.homepage2.ReadHistoryLayout
             android:id="@+id/readHistory"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <com.quranapp.android.views.homepage2.FeaturedReadingLayout
+        <com.mietrix.restu_digital_quran.views.homepage2.FeaturedReadingLayout
             android:id="@+id/featuredReading"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <com.quranapp.android.views.homepage2.FeaturedDuaLayout
+        <com.mietrix.restu_digital_quran.views.homepage2.FeaturedDuaLayout
             android:id="@+id/featuredDua"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <com.quranapp.android.views.homepage2.QuranSolutionVersesLayout
+        <com.mietrix.restu_digital_quran.views.homepage2.QuranSolutionVersesLayout
             android:id="@+id/solutions"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <com.quranapp.android.views.homepage2.QuranEtiquetteLayout
+        <com.mietrix.restu_digital_quran.views.homepage2.QuranEtiquetteLayout
             android:id="@+id/etiquette"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <com.quranapp.android.views.homepage2.FeatureProphetsLayout
+        <com.mietrix.restu_digital_quran.views.homepage2.FeatureProphetsLayout
             android:id="@+id/prophets"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

@@ -92,7 +92,7 @@
             <androidx.appcompat.widget.AppCompatImageView
                 android:layout_width="22dp"
                 android:layout_height="22dp"
-                android:src="@drawable/dr_logo" />
+                android:src="@drawable/ic_launcher" />
 
             <androidx.appcompat.widget.AppCompatTextView
                 android:id="@+id/watermarkTxt"
